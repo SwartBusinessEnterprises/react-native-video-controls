@@ -1056,8 +1056,7 @@ export default class VideoPlayer extends Component {
  */
 const styles = {
     player: StyleSheet.create({
-        container: {
-            flex: 1,
+        container: {            
             alignSelf: 'stretch',
             justifyContent: 'space-between',
         },
